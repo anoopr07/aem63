@@ -40,6 +40,13 @@
         <vault.user>admin</vault.user>
         <vault.password>admin</vault.password>
     </properties>
+    
+    <scm>
+		<url>https://github.com/anoopr07/aem63</url>
+		<connection>scm:git:git://github.com/anoopr07/aem63.git</connection>
+		<developerConnection>scm:git:git@github.com:anoopr07/aem63.git</developerConnection>
+	</scm>
+	
     <build>
         <plugins>
             <!-- Maven Release Plugin -->
