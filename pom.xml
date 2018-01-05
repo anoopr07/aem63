@@ -19,7 +19,7 @@
     <groupId>aem63</groupId>
     <artifactId>aem63</artifactId>
     <packaging>pom</packaging>
-    <version>2.1-SNAPSHOT</version>
+    <version>2.1</version>
     <description>aem63</description>
     
     <modules>
@@ -45,7 +45,7 @@
 		<url>https://github.com/anoopr07/aem63</url>
 		<connection>scm:git:git://github.com/anoopr07/aem63.git</connection>
 		<developerConnection>scm:git:git@github.com:anoopr07/aem63.git</developerConnection>
-	  <tag>aem63-2.0</tag>
+	  <tag>aem63-2.1</tag>
   </scm>
 	
     <build>
