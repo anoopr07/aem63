@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2017-02-21T14:16:17.750-05:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/acs-samples/templates/slingmodeltemplate"
+        jcr:description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="sampleSlingModel"
+        sling:resourceType="acs-samples/components/content/sling-model"
+        navTitle="sampleSlingModel"
+        pageTitle="Sample Sling Model"/>
+    <one/>
+    <two/>
+</jcr:root>

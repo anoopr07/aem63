@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/aem63">
+        <exclude pattern="/apps/aem63/install" />
+    </filter>
+    <filter root="/apps/sling" />
+    <filter root="/etc/designs/aem63"/>
+	 <filter root="/apps/acs-samples" />
+</workspaceFilter>
